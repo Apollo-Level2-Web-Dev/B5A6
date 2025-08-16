@@ -9,11 +9,14 @@
 
 ## 📌 Overview
 
-Welcome to **Assignment 6**.  
-In this task, you'll build a **full-featured frontend project** using React, Redux Toolkit, and RTK Query.  
+In this assignment, you will build a **role-based, secure, and responsive frontend system**.  
+Your task is to design and implement a frontend that integrates with an API, supports multiple user roles, and ensures a smooth user experience.  
 
-This project focuses on creating a **role-based, secure, and responsive frontend system** with dashboards for **Users, Agents, and Admins**.  
-You will consume a backend API (provided separately or mocked) and ensure a polished user experience.
+This assignment focuses on:  
+- Clean project structure  
+- API integration with state management  
+- Role-based dashboards  
+- Production-ready UI/UX  
 
 ---
 
@@ -36,8 +39,8 @@ You will consume a backend API (provided separately or mocked) and ensure a poli
    - Clean commits, modular code, reusable components  
    - Separate repos for **Frontend** and **Backend**  
 2. 🌍 **Live Deployment Links**  
-   - Frontend → Vercel/Netlify  
-   - Backend → Render/Railway  
+   - Frontend → Vercel/Netlify etc 
+   - Backend → Render/Railway etc 
 3. 🎥 **Video Demonstration** (Google Drive / Loom)  
    - 5–10 minutes covering dashboards, transactions, and role-based flows  
 4. 📄 **README.md** file including:  
@@ -46,24 +49,36 @@ You will consume a backend API (provided separately or mocked) and ensure a poli
    - Tech Stack  
    - Setup Instructions  
    - Live Links  
-   - Test Credentials (Admin/Agent/User)  
+   - Test Credentials 
 
 ---
 
 ## 🔑 Core Features to Implement
 
 ### 🌐 Public Landing
-- Responsive **Home Page** with navbar, hero banner, call-to-action buttons, footer  
-- Additional routes: About, Features, Contact, FAQ (+ Pricing optional)  
-- Smooth transitions, skeleton loaders, and working links/buttons  
+- Responsive **Home Page** with: navbar, hero section, call-to-action buttons, footer  
+- At least 4+ additional routes (About, Features, Contact, FAQ, etc.)  
+- Smooth transitions, skeleton loaders, working links & buttons  
+
+### 🔐 Authentication
+- Role-based **Login & Registration**  
+- Redirection to respective dashboards after login  
+- Persisted login state + Logout  
+
+### 👤 Role-Based Dashboards
+- Personalized dashboard per role (overview, recent activities, summary)  
+- Ability to perform core operations (based on role)  
+- List/history of past activities with filtering & pagination  
+- Profile management  
 
 ### ✨ General Features
 - Role-based navigation menus  
-- Form validations, error handling, toast notifications  
-- Charts & tables for data visualization  
-- Guided Tour (at least 5 steps, once for new users)  
+- Form validation & error handling  
+- Toast notifications for actions  
+- Charts & tables for visualization  
+- Guided Tour (at least 5 steps for new users)  
 - Light/Dark mode toggle  
-- Responsive, accessible UI with clean theme and typography  
+- Responsive, accessible UI with clean theme & typography  
 
 ---
 
