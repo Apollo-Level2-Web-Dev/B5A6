@@ -35,21 +35,11 @@ This assignment focuses on:
 
 ## 📤 What You Must Submit
 
-1. 🔗 **GitHub Repository**  
-   - Clean commits, modular code, reusable components  
-   - Separate repos for **Frontend** and **Backend**  
-2. 🌍 **Live Deployment Links**  
-   - Frontend → Vercel/Netlify etc 
-   - Backend → Render/Railway etc 
-3. 🎥 **Video Demonstration** (Google Drive / Loom)  
-   - 5–10 minutes covering dashboards, transactions, and role-based flows  
-4. 📄 **README.md** file including:  
-   - Project Overview  
-   - Features  
-   - Tech Stack  
-   - Setup Instructions  
-   - Live Links  
-   - Test Credentials 
+1.	Codebase – Clean, modular, documented; include a README with overview, setup, tech stack, live URL, and notes.
+2.	GitHub Repo – Separate frontend & backend repos with at least 20 commits.
+3.	Live Deployment – Working URLs for both frontend and backend.
+4.	Demo Video – 5–10 minutes showing login, dashboards, core operations, and role-based features.
+5.	Test Credentials.
 
 ---
 
