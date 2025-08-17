@@ -88,8 +88,8 @@ This assignment focuses on:
 
 | Date | Marks |
 |------|-------|
-| 📅 **27 Aug 2025 - 11:59PM** | 🟢 60 Marks |
-| 📅 **28 Aug 2025 - 11:59PM** | 🟡 50 Marks |
+| 📅 **25 Aug 2025 - 11:59PM** | 🟢 60 Marks |
+| 📅 **26 Aug 2025 - 11:59PM** | 🟡 50 Marks |
 | 📅 **Late Submission** | 🔴 30 Marks |
 
 ---
