@@ -77,7 +77,7 @@ This assignment focuses on:
 | PH ID Last Digit | Assignment Variant |
 |------------------|--------------------|
 | `0,1,2,3`        | [Variant 1](./1.%20Digital%20Wallet%20Frontend.md) |
-| `4,5,6`          | [Variant 2](./2.%20Ride%20Management%20Frontend.md) |
+| `4,5,6`          | [Variant 2](./2.%20Ride%20Booking%20Frontend.md) |
 | `7,8,9`          | [Variant 3](./3.%20Parcel%20Delivery%20Frontend.md) |
 
 🔍 **To find your PH Student ID** → Go to [web.programming-hero.com](https://web.programming-hero.com) → Profile → ID is below your name.
